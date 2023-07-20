@@ -1,2 +1,1 @@
-# Menu
-This is the follow-up lessons on Code-15-React-projects
+# react-projects-5-menu
